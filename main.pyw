@@ -3,7 +3,7 @@ from tkinter import messagebox
 import sqlite3
 
 root = Tk()
-root.title("Подбор щеток AEZ. Ver.1.24.10.2020")
+root.title("Подбор щеток AEZ. Ver.1.2410.2020")
 root.geometry('350x150')
 
 def printRecords():
